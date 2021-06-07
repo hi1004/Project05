@@ -15,7 +15,16 @@
     "sass": "^1.34.0"
   },
   "dependencies": {
+    "cookie": "^0.4.1",
+    "cookie-parser": "^1.4.5",
+    "ease": "^0.1.0",
+    "easing": "^1.2.1",
+    "express": "^4.17.1",
     "gsap": "^3.6.1",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "scrollmagic": "^2.0.8",
+    "swiper": "^6.7.0",
+    "youtube-iframe-player": "^1.0.1",
+    "youtube-player": "^5.5.2"
   }
 }
