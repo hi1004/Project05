@@ -5,7 +5,7 @@
 > [DEMO](https://bit.ly/3IDSIx3)  
 > [Login DEMO](https://starbucks-psi-three.vercel.app/signin)
 
-![image](https://raw.githubusercontent.com/hi1004/KUMHO-App/master/images/readme.jpg)
+![image](https://raw.githubusercontent.com/hi1004/Starbucks-App/master/images/readme.jpg)
 
 </br>
 
